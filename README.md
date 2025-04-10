@@ -1,5 +1,5 @@
 # C-SIP
 
-Code used for the experiments detailed in our paper "Contrastive learning of image representations guided by spatial relations", accepted at WACV'25. 
+Code used for the experiments detailed in our paper "Contrastive learning of image representations guided by spatial relations", published at WACV'25. 
 
-The code shall be released shortly.
+Further description of this project shall be published very soon.
