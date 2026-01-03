@@ -17,6 +17,10 @@ Published at the IEEE/CVF Winter Conference on Applications of Computer Vision (
 - We introduce C-SIP, Contrastive Spatial-Image Pre-training, a training strategy that leverages quantitative spatial relations for better spatially-aware image representations more in line with human perception;
 - C-SIP models are experimentally evaluated on three downstream tasks: Spatial Relationship Recognition, Image Retrieval, and Visual Question Answering.
 
+<p align="center">
+  <img src="images/model_architecture.png" alt="C-SIP architecture" width="90%"/>
+</p>
+
 # Requirements
 
 - Download the [COCO](https://cocodataset.org/#download) and [SpatialSense](https://github.com/princeton-vl/SpatialSense/tree/master) datasets for training the models.
