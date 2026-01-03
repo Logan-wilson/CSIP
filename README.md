@@ -7,7 +7,7 @@
 Official implementation of Contrastive Learning of Image Representations Guided by Spatial Relations: [IEEE](https://ieeexplore.ieee.org/abstract/document/10943556).
 [Open Access version](https://openaccess.thecvf.com/content/WACV2025/papers/Servant_Contrastive_Learning_of_Image_Representations_Guided_by_Spatial_Relations_WACV_2025_paper.pdf).
 
-Published at the 25th IEEE/CVF Winter Conference on Applications of Computer Vision (WACV).
+Published at the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV'25).
 
 ---
 
